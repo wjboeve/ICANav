@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ICANav</string>
+    <string name="title_activity_child1">child1</string>
+    <string name="title_activity_child2">child2</string>
+    <string name="title_activity_child3">child3</string>
+    <string name="button_b1">B1</string>
+    <string name="button_b2">B2</string>
+    <string name="button_b3">B3</string>
+</resources>
